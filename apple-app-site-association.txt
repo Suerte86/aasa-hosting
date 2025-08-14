@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6505030043.au.com.247football",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
